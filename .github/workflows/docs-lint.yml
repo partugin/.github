@@ -22,4 +22,4 @@ jobs:
     - name: Link Checker (Lychee)
       uses: lycheeverse/lychee-action@v2
       with:
-        args: --verbose --no-progress '**/*.md'
+        args: ./**/*.md
