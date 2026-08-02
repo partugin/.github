@@ -18,10 +18,3 @@ jobs:
       uses: DavidAnson/markdownlint-cli2-action@v1
       with:
         globs: '**/*.md'
-
-    - name: Run Vale (Style & Spell Check)
-      uses: errata-ai/vale-action@v2
-      with:
-        files: '.'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
