@@ -7,4 +7,4 @@
 
 * **Email**: test@example.com
 * **Telegram**: @your_username
-* **GitHub**: [Мой профиль](https://github.com) 
+* **GitHub**: [Мой профиль](https://github.com)
