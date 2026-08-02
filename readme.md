@@ -7,4 +7,4 @@
 ## Полезные ссылки
 
 * [Рабочий сайт GitHub](https://github.com)
-* [Сломанная ссылка для теста](https://github.com)
+* [Сломанная ссылка для теста](https://this-site-absolutely-does-not-exist-12345.com)
